@@ -1,4 +1,4 @@
-# J-Planner 
+# J-Planner Doc
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![React Native](https://img.shields.io/badge/React_Native-0.72.0-61dafb?logo=react&logoColor=white)](https://reactnative.dev/)
